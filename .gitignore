@@ -1,0 +1,31 @@
+# Ignore IntelliJ IDEA files
+**/.idea/
+
+# Ignore Gradle files
+**/build/
+.gradle/
+
+# Ignore Maven files
+**/target/
+**/mvn/
+
+# Ignore Eclipse files
+**/.classpath
+**/.project
+**/.settings/
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Node.js files
+node_modules/
+
+# Ignore package-lock files for Node.js
+package-lock.json
+
+# Ignore logs
+*.log
+
+# Ignore compiled binaries
+**/*.class
+**/*.jar
